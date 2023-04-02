@@ -1,1 +1,1 @@
-# 📖 Integrify Assignments 🚀
+# 📖 Integrify Assignments and exercises 🚀
