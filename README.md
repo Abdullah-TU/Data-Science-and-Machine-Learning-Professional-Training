@@ -2,4 +2,5 @@
 
 1. Python assignment
 2. Python project
+3. Machine learning assignment
 
