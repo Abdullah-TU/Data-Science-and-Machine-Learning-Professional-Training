@@ -5,3 +5,4 @@
 3. Machine learning assignment
 4. Machine learning project
 5. Data Science assignment
+6. Data Science project
