@@ -1,4 +1,5 @@
 # 📖 Assignments and exercises 🚀
 
 1. Python assignment
+2. Python project
 
